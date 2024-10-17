@@ -1,1 +1,1 @@
-# Proyecto Git Avanzado
+# Aprendiendo Git: Proyecto Práctico
